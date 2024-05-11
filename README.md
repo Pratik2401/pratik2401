@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **react,python,c++,js,css**
 
-- 📫 How to reach me **pratikmali2412**
+- 📫 How to reach me **pratikmali242005@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
