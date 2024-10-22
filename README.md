@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pratik Mali</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **PHP**
+- 🌱 I’m currently learning **Machine Learing**
 
 - 💬 Ask me about **react,python,c++,js,css**
 
