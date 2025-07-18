@@ -8,15 +8,32 @@ I'm a MERN Stack Developer with hands-on experience building real-world web apps
 
 Lately, I’ve been exploring tools like LangChain.js and LangGraph.js to build AI-powered workflows and assistants using JavaScript — combining smart decision-making with web apps.
 
-My past work includes:
+## 💼 Past Work Highlights
 
-QR-based cafe menu systems with admin dashboards
+- 🚀 [QR-based Café Menu System (Snap2Eat)](https://topchioutpost.snap2eat.in/)  
+  Full-stack MERN-based menu system with:
+  - QR code-based login-free customer interface
+  - Drag-and-drop admin dashboard for menu, theming, and offers
+  - AWS EC2 deployment with Multer for image uploads and cron-based cleanup
 
-Event registration platforms (WordPress + React hybrid)
+- 📅 [Hybrid Event Registration Platform (ImBoard)](https://events.imboard.in/)  
+  WordPress + React-based platform featuring:
+  - JWT-secured access, UPI payment support, Excel export
+  - Real-time participant tracking and analytics (Recharts)
+  - Modular backend APIs and custom admin dashboard
 
-AI-driven medical diagnostic tools
+- 🌐 [Official NGO Website for Kumbhathon](https://kumbhathon.com/)  
+  WordPress-based site using:
+  - Astra Pro, Elementor Pro, WP Rocket for performance & SEO
+  - Custom CSS and responsive UI for better engagement
+  - Enhanced digital presence for Kumbhathon’s initiatives and outreach
 
-Custom admin UIs with real-time updates and drag-and-drop features
+- 🛒 [Maharashtra Farms Subscription Platform](https://www.maharashtrafarms.com/)  
+  MERN-based backend system with:
+  - OTP-based authentication, zone-based delivery logic
+  - Razorpay integration for secure payments
+  - Multer + ImageKit CDN for optimized media workflows
+
 
 I care about writing clean, scalable code, building useful products, and continuously learning. Whether it’s backend APIs, frontend UI, or integrating AI — I love solving real problems with tech.
 
